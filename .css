@@ -1,0 +1,20 @@
+*{padding: 0px;margin: 0px;}
+.khoitin{
+    width: 320px;
+    height: 350px;
+    position: relative;
+    
+}
+img{width: 320px;
+    height: 350px;  
+         
+}
+a{width: 300px;
+    padding: 10px 10px;
+    text-decoration: none;
+    background-color: yellow;
+    color: red;
+    display: block;
+    position: absolute;
+    bottom: 0px;
+}
